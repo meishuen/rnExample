@@ -1,0 +1,4 @@
+2023-04-08 22:05:39.479 xcodebuild[4572:108661] DVTCoreDeviceEnabledState: DVTCoreDeviceEnabledState_Disabled set via user default (DVTEnableCoreDevice=disabled)
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:FB1E6F39-E97A-4BAD-B55E-F34263D57328, OS:16.4, name:iPhone SE (3rd generation) }
+{ platform:iOS Simulator, id:FB1E6F39-E97A-4BAD-B55E-F34263D57328, OS:16.4, name:iPhone SE (3rd generation) }
